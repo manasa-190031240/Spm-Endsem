@@ -1,0 +1,3 @@
+This is spm labexam
+end sem lab exam
+from 10to11:30
